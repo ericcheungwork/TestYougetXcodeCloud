@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.5.2 (swiftlang-1300.0.47.5 clang-1300.0.29.30)"
+options: "7c210285ad91bfaec743ad1cdc75c0a36a39d4994ee93a2203d801d0d6081829"
+build_start_time: [1656345045, 448493003]
+build_end_time: [1656345046, 665199041]
+inputs:
+  "/Users/oOEric/Desktop/TestYougetXcodeCloud/TestYougetXcodeCloud/AppDelegate.swift": !private [1656344975, 346706390]
+  "/Users/oOEric/Desktop/TestYougetXcodeCloud/TestYougetXcodeCloud/SceneDelegate.swift": !private [1656344975, 351560115]
+  "/Users/oOEric/Desktop/TestYougetXcodeCloud/TestYougetXcodeCloud/ViewController.swift": !private [1656344975, 352402210]

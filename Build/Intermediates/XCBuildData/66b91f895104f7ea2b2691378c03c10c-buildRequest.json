@@ -1,0 +1,64 @@
+{
+  "_buildCommand2" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildAndRun"
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "94ea9ef9017d09c263fce7bef724e4d3cb043780df38a32f80e752b6e4fb5434"
+    }
+  ],
+  "containerPath" : "/Users/oOEric/Desktop/TestYougetXcodeCloud/TestYougetXcodeCloud.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator15.2",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/oOEric/Desktop/TestYougetXcodeCloud/Build/Intermediates",
+      "buildProductsPath" : "/Users/oOEric/Desktop/TestYougetXcodeCloud/Build/Products",
+      "derivedDataPath" : "/Users/oOEric/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/oOEric/Library/Developer/Xcode/DerivedData/TestYougetXcodeCloud-aenqmfkhzmssinduvrupblagevsm/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/oOEric/Library/Developer/Xcode/DerivedData/TestYougetXcodeCloud-aenqmfkhzmssinduvrupblagevsm/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/oOEric/Desktop/TestYougetXcodeCloud/Build/Intermediates/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPod9,1",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "15.2",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "ENABLE_PREVIEWS" : "NO",
+          "TARGET_DEVICE_IDENTIFIER" : "E90FF90D-4452-43C3-93B4-1C40A3066AA5",
+          "TARGET_DEVICE_MODEL" : "iPod9,1",
+          "TARGET_DEVICE_OS_VERSION" : "15.2",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
